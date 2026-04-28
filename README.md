@@ -1,2 +1,2 @@
-Implementing the Cut Cross Entropy Paper in Triton
+An Implementation of the Cut Cross Entropy Triton Kernel
 
